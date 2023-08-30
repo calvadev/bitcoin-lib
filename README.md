@@ -1,2 +1,2 @@
 # bitcoin-lib
-A Bitcoin library written in Python
+A Bitcoin implementation written in Python
